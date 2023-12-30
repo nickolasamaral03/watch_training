@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "typescript-plugin-css-modules": "^5.0.2"
+  },
+  "dependencies": {
+    "@types/uuid": "^9.0.7",
+    "save-dev": "^0.0.1-security",
+    "uuid": "^9.0.1"
+  }
+}
