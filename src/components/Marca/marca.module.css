@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,700&display=swap');
+
+.marca{
+    font-family: 'Noto Serif', serif;
+    padding: 15px;
+    margin: 0;
+    height: 10px;
+}
+
+@media(max-width: 800px){
+    .marca{
+        font-size: 24px;
+        width: 200px;
+    }
+}

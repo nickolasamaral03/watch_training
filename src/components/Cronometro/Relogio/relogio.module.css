@@ -1,0 +1,19 @@
+.span{
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+    color: yellow;
+    text-decoration: underline;
+}
+
+.ponto{
+    color: yellow;
+}
+
+@media (max-width: 800px){
+    .span{
+        font-size: 20px;
+        margin-right: 10px;
+        text-decoration: none;
+    }
+}
